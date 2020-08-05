@@ -1,0 +1,11 @@
+D:\KS-171\ConsoleApplication12312\bin\Release\ConsoleApplication12312.exe
+D:\KS-171\ConsoleApplication12312\bin\Release\ConsoleApplication12312.pdb
+D:\KS-171\ConsoleApplication12312\obj\x86\Release\ResolveAssemblyReference.cache
+D:\KS-171\ConsoleApplication12312\obj\x86\Release\ConsoleApplication12312.exe
+D:\KS-171\ConsoleApplication12312\obj\x86\Release\ConsoleApplication12312.pdb
+C:\Users\user\Desktop\ConsoleApplication12312\bin\Release\ConsoleApplication12312.exe
+C:\Users\user\Desktop\ConsoleApplication12312\bin\Release\ConsoleApplication12312.pdb
+C:\Users\user\Desktop\ConsoleApplication12312\obj\x86\Release\ConsoleApplication12312.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ConsoleApplication12312\obj\x86\Release\ConsoleApplication12312.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConsoleApplication12312\obj\x86\Release\ConsoleApplication12312.exe
+C:\Users\user\Desktop\ConsoleApplication12312\obj\x86\Release\ConsoleApplication12312.pdb
